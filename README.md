@@ -1,6 +1,6 @@
 # SerialcodeGenerator [![Build Status](https://travis-ci.org/hilotter/serialcode_generator.png?branch=master)](https://travis-ci.org/hilotter/serialcode_generator)
 
-Generate serialcode, excluding 0, O, o, 1, l.
+Generate serialcode, excluding 0, O, o, 1, l, I.
 
 ## Installation
 
