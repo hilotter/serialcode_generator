@@ -20,6 +20,7 @@ describe SerialcodeGenerator do
       expect(serialcode.include?('o')).to eq false
       expect(serialcode.include?('1')).to eq false
       expect(serialcode.include?('l')).to eq false
+      expect(serialcode.include?('I')).to eq false
     end
   end
 
@@ -33,6 +34,7 @@ describe SerialcodeGenerator do
       expect(serialcode.include?('o')).to eq false
       expect(serialcode.include?('1')).to eq false
       expect(serialcode.include?('l')).to eq false
+      expect(serialcode.include?('I')).to eq false
     end
   end
 end
