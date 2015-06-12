@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = SerialcodeGenerator::VERSION
   spec.authors       = ["hilotter"]
   spec.email         = ["hilotter3@gmail.com"]
-  spec.summary       = %q{generate serialcode, excluding 0, O, o, 1, l.}
-  spec.description   = %q{generate serialcode, excluding 0, O, o, 1, l.}
+  spec.summary       = %q{generate serialcode, excluding 0, O, o, 1, l, I.}
+  spec.description   = %q{generate serialcode, excluding 0, O, o, 1, l, I.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
